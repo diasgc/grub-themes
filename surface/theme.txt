@@ -2,8 +2,7 @@
 title-text: ""
 desktop-image: "background.png"
 desktop-color: "#000000"
-terminal-font: "Terminus Regular 14"
-# terminal-font: "dejavu 36"
+terminal-font: "dejavu 36"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
@@ -18,13 +17,13 @@ terminal-border: "0"
   width = 45%
   height = 60%
   item_font = "ubuntu 48"
-  item_color = "#646464"
+  item_color = "#415A64"
   icon_width = 80
   icon_height = 80
   item_height = 80
   item_padding = 20
   item_icon_space = 20
-  selected_item_color = "#cccccc"
+  selected_item_color = "#415A64"
   item_height = 80
   item_spacing = 24
   selected_item_pixmap_style = "select_*.png"
@@ -40,6 +39,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
-  color = "#cccccc"
+  color = "#415A64"
   font = "ubuntu 48"
 }
